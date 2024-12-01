@@ -1,0 +1,6 @@
+openai
+pandas
+tqdm
+transformers
+torch
+numpy==1.23.5
