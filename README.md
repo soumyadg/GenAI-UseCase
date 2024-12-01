@@ -160,6 +160,6 @@ transcript_1.txt,"Hi, I can’t log in to my account...",positive,"Issue resolve
 
 ## **Contact**
 For questions or feedback, reach out to:
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [GitHub Profile URL]
+- **Name**: Soumya Dasgupta
+- **Email**: soumya_02@outlook.com  
+- **GitHub**: www.github.com/soumyadg
