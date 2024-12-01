@@ -1,6 +1,5 @@
----
-![](49049.jpg)
 
+![](49049.jpg)
 
 # **GenAI Use Case Analysis**
 
