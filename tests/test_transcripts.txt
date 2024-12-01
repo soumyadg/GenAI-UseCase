@@ -1,0 +1,24 @@
+### Transcript 1: Positive Sentiment, Resolved Issue
+Member: Hi, I just wanted to thank you for resolving my issue so quickly. The new password works perfectly!
+Agent: I’m glad to hear that. Is there anything else I can assist you with?
+Member: No, that’s all. Thank you again!
+
+### Transcript 2: Neutral Sentiment, Follow-Up Needed
+Member: Hi, I need help with my account. I’m unable to log in, and I’m not sure why.
+Agent: I see. Let me escalate this issue to our technical team. They’ll get back to you within 24 hours.
+Member: Okay, thanks for your help.
+
+### Transcript 3: Negative Sentiment, Follow-Up Needed
+Member: I’m very frustrated. My claim was denied even though I provided all the required documents!
+Agent: I’m sorry to hear that. Let me check your claim details and see why it was denied.
+Member: Fine, but I’m not happy about this.
+
+### Transcript 4: Ambiguous Sentiment, Follow-Up Needed
+Member: Hi, I need assistance with my account. My ID is MEM12345, and I can’t access the portal.
+Agent: Let me check your details. I’ll update you shortly.
+Member: Thanks.
+
+### Transcript 5: Positive Sentiment, Resolved Issue
+Member: Hi, I got the confirmation for my refund. Thank you so much for the quick response!
+Agent: You’re welcome. Is there anything else I can assist you with?
+Member: No, that’s all. Have a good day.
